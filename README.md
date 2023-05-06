@@ -25,5 +25,5 @@ The different steps involved in the project are:
 >* Recommendations using SVD (Singular Value Decomposition)
 >* Item-based Recommendation
 >* Author-based Recommendation
->>* Recommendations using K-Nearest Neighbours
+>* Recommendations using K-Nearest Neighbours
 
